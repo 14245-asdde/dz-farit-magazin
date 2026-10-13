@@ -24,7 +24,7 @@ int main()
 
     while (true)
     {
-        std::cout << "МАГАЗИН 'СОКИ СЕВЫ'\n";
+        std::cout << "МАГАЗИН СОКИ СЕВЫ\n";
         std::cout << "1 - Фруктовые соки\n";
         std::cout << "2 - Овощные соки\n";
         std::cout << "3 - Чаи\n";
